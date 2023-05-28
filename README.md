@@ -58,3 +58,61 @@ __Module-3 [Arrays](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tre
 |Buy-Sell Stock-2|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B016%5DBuySell-Stock-2/MyFile.java)|
 |Trap-Rain-Water|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B017%5DTrap-Rain-Water/MyFile.java)|
 ---
+__Module-4 [Sorting Techniques](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B003%5DArrays)__
+| Problem | Link |
+| ------ | ----------- |
+|Bubble Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B004%5DSorting/%5B001%5DBubbleSort/MyFile.java)|
+|Selection Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B004%5DSorting/%5B002%5DSelectionSort/MyFile.java)|
+|Insertion Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B004%5DSorting/%5B003%5DInsertionSort/MyFile.java)|
+|Count Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B004%5DSorting/%5B004%5DCountSort/MyFile.java)|
+|BuiltIn Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B004%5DSorting/%5B005%5DBuiltInSort/MyFile.java)|
+---
+__Module-5 [Matrix 2-D Arrays](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B005%5D2D-Arrays)__
+| Problem | Link |
+| ------ | ----------- |
+|Print Matrix|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B001%5DPrintMatrix/MyFile.java)|
+|Search In Matrix|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B002%5DSearchInMatrix/MyFile.java)|
+|Largest In Matrix|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B003%5DLargestInMatrix/MyFile.java)|
+|Smallest In Matrix|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B004%5DSmallestInMatrix/MyFile.java)|
+|Sum Of Diagonal|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B005%5DSumOfDiagonal/MyFile.java)|
+|Transpose Of Matrix|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B006%5DTransposeOfMatrix/MyFile.java)|
+|Print Spiral|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B007%5DPrintSpiral/MyFile.java)|
+|Search in Sorted Matrix (Brute-Force)|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B008%5DSearchInSortedMatrix-BruteForce/MyFile.java)|
+|Search in Sorted Matrix (Binary-Search)|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B009%5DSearchInSortedMatrix-BinarySearch/MyFile.java)|
+|Search in Sorted Matrix (StairCase-Search-Variation-1)|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B010%5DSearchInSortedMatrix-StairCaseSearch-Variation-1/MyFile.java)|
+|Search in Sorted Matrix (StairCase-Search-Variation-2)|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B005%5D2D-Arrays/%5B011%5DSearchInSortedMatrix-StairCaseSearch-Variation-2/MyFile.java)|
+---
+__Module-6 [Strings](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B006%5DStrings)__
+| Problem | Link |
+| ------ | ----------- |
+|String Basics|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B001%5D%20Strings-Basics/MyFile.java)|
+|String Length|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B002%5D%20Strings%20Length/MyFile.java)|
+|String Concatination|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B003%5D%20Strings%20Concatination/MyFile.java)|
+|String charAt() Method|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B004%5D%20Strings%20charAt%20Method/MyFile.java)|
+|String Palindrome|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B005%5D%20String%20Palindrome/MyFile.java)|
+|Shortest Path|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B006%5D%20Shortest%20Path/MyFile.java)|
+|String Equals|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B007%5D%20String%20Equals/MyFile.java)|
+|String SubString|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B008%5D%20String%20SubString/MyFile.java)|
+|Lexiographically Largest String|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B009%5D%20Largest%20String/MyFile.java)|
+|StringBuilder Basics|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B010%5D%20StringBuilder-Basics/MyFile.java)|
+|ToUpperCase|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B011%5D%20ToUpperCase/MyFile.java)|
+|String Compression|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B012%5D%20String%20Compression/MyFile.java)|
+|VowelsToLowerCase|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B015%5D%20VowelsToLowerCase/MyFile.java)|
+|String Anagrams|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B016%5D%20String%20Anagrams/MyFile.java)|
+---
+__Module-7 [Bit Manipulation](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B007%5DBit-Manipulation)__
+| Problem | Link |
+| ------ | ----------- |
+|Bit-Manipulation Basics|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B001%5D%20Basics-BitManipulation/MyFile.java)|
+|CheckEvenOdd|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B002%5D%20CheckEvenOrOdd/MyFile.java)|
+|Get=ith-bit|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B003%5D%20Get-ith-bit/MyFile.java)|
+|Set-ith-bit|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B004%5D%20Set-ith-bit/MyFile.java)|
+|Clear-ith-bit|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B005%5D%20Clear-ith-bit/MyFile.java)|
+|Update-ith-bit|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B006%5D%20Update-ith-bit/MyFile.java)|
+|ClearLast-i-bits|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B007%5D%20ClearLast-i-bits/MyFile.java)|
+|ClearRangeOfBits|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B008%5D%20ClearRangeOfBits/MyFile.java)|
+|Check-If-Number-Is-PowerOf-2|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B009%5D%20CheckIf-Number-PowerOf-2/MyFile.java)|
+|Count Set Bits|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B010%5D%20CountSetBits/MyFile.java)|
+|Fast Exponentiation|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B011%5D%20FastExponentiation/MyFile.java)|
+|Swap Numbers|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B012%5D%20SwapNumbers/MyFile.java)|
+---
