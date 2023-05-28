@@ -1,7 +1,6 @@
 ---
-__Shraddha-Didi-DSA-Alpha-Course  :-)__
+__Shraddha-Didi-DSA-Alpha-Course__
 ---
-![Topics](https://github.com/pvbgeek/pvbgeek/blob/main/Alpha/Topics.png)
 ---
 __Module-1 [Basic-Maths](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B001%5DBasicMaths)__
 
