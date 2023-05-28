@@ -1,6 +1,7 @@
 ---
-__Shraddha-Didi-DSA-Alpha-Course__
+__Shraddha-Didi-DSA-Alpha-Course  :-)__
 ---
+![Intro](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apnacollege.in%2Fcourse%2Fplacement-course-java&psig=AOvVaw178GeXxGObF9k0jdbQCgvS&ust=1685351055303000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCE14nUl_8CFQAAAAAdAAAAABAE)
 ---
 __Module-1 [Basic-Maths](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B001%5DBasicMaths)__
 
