@@ -36,4 +36,25 @@ __Module-2 [Patterns](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/t
 |Pattern-5|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B005%5DPattern-5/MyFile.java)|
 |Pattern-6|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B006%5DPattern-6/MyFile.java)|
 ---
+__Module-2 [Arrays](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B003%5DArrays)__
+
+| Problem | Link |
+| ------ | ----------- |
+|Print Array|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B001%5DPrintArray/MyFile.java)|
+|Linear Search|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B002%5DLinearSearch/MyFile.java)|
+|Largest In Array|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B003%5DLargestInArray/MyFile.java)|
+|Smallest In Array|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B004%5DSmallestInArray/MyFile.java)|
+|Second Largest|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B005%5DSecondLargest/MyFile.java)|
+|Second Smallest|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B006%5DSecondSmallest/MyFile.java)|
+|Binary Search|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B007%5DBinarySearch/MyFile.java)|
+|Print Pairs : (Logic of Pairs)|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B008%5DPrintPairs/MyFile.java)|
+|Max Sum Pair|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B009%5DPairMaxSum/MyFile.java)|
+|Reverse Array|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B010%5DReverseArray/MyFile.java)|
+|Print Sub-Arrays|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B011%5DPrintSubArray/MyFile.java)|
+|Max Sum Sub-Array (Brute-Force)|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B012%5DMaximumSumSubArray-BruteForce/MyFile.java)|
+|Max Sum Sub-Array (Kadane's Algorithm)|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B013%5DKadane'sAlgorithm-MaximumSumSubArray/MyFile.java)|
+|Max Sum Sub-Array (Prefix Sum Approach)|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B014%5DPrefixSumApproach-MaximumSumSubArray/MyFile.java)|
+|Buy-Sell Stock-1|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B015%5DBuySell-Stock-1/MyFile.java)|
+|Buy-Sell Stock-2|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B016%5DBuySell-Stock-2/MyFile.java)|
+|Trap-Rain-Water|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B003%5DArrays/%5B017%5DTrap-Rain-Water/MyFile.java)|
 ---
