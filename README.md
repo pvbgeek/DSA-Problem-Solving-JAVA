@@ -36,7 +36,7 @@ __Module-2 [Patterns](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/t
 |Pattern-5|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B005%5DPattern-5/MyFile.java)|
 |Pattern-6|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B006%5DPattern-6/MyFile.java)|
 ---
-__Module-2 [Arrays](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B003%5DArrays)__
+__Module-3 [Arrays](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B003%5DArrays)__
 
 | Problem | Link |
 | ------ | ----------- |
