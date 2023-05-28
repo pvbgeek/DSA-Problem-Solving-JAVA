@@ -25,5 +25,15 @@ __Module-1 [Basic-Maths](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Cours
 |nCr|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B001%5DBasicMaths/%5B017%5DnCr/MyFile.java)|
 |Binary To Decimal|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B001%5DBasicMaths/%5B018%5DBinaryToDecimal/MyFile.java)|
 ---
+__Module-2 [Patterns](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B002%5DPatterns)__
 
+| Problem | Link |
+| ------ | ----------- |
+|Pattern-1|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B001%5DPattern-1/MyFile.java)|
+|Pattern-2|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B002%5DPattern-2/MyFile.java)|
+|Pattern-3|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B003%5DPattern-3/MyFile.java)|
+|Pattern-4|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B004%5DPattern-4/MyFile.java)|
+|Pattern-5|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B005%5DPattern-5/MyFile.java)|
+|Pattern-6|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B002%5DPatterns/%5B006%5DPattern-6/MyFile.java)|
+---
 ---
