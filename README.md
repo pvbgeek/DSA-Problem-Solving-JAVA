@@ -116,3 +116,25 @@ __Module-7 [Bit Manipulation](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-
 |Fast Exponentiation|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B011%5D%20FastExponentiation/MyFile.java)|
 |Swap Numbers|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B007%5DBit-Manipulation/%5B012%5D%20SwapNumbers/MyFile.java)|
 ---
+__Module-8 [Recursion](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B008%5D%20Recursion)__
+| Problem | Link |
+| ------ | ----------- |
+|Print N to 1|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B001%5D%20Print-N-1/MyFile.java)|
+|Print 1 to N|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B002%5D%20Print-1-N/MyFile.java)|
+|Factorial|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B003%5D%20Factorial/MyFile.java)|
+|Sum Of Natural Numbers|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B004%5D%20SumOfNaturalNumbers/MyFile.java)|
+|Fibonacci|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B005%5D%20Fibonacci/MyFile.java)|
+|Check If Array is Sorted|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B006%5D%20CheckIfArraySorted/MyFile.java)|
+|First Occurrence|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B007%5D%20FirstOccurrence/MyFile.java)|
+|Last Occurrence|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B008%5D%20LastOccurrence/MyFile.java)|
+|Find Power|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B009%5D%20FindPower/MyFile.java)|
+|GCD|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B010%5D%20GCD/MyFile.java)|
+|Tiling Problem|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B011%5D%20TilingProblem/MyFile.java)|
+|Remove Duplicates From String|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B012%5D%20RemoveDuplicatesInString/MyFile.java)|
+|Friends Pairing Problem|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B013%5D%20FriendsPairingProblem/MyFile.java)|
+|Binary Strings Problem|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B014%5D%20BinaryStringsProblem/MyFile.java)|
+|Find All Occurrences|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B015%5D%20FindAllOccurrences/MyFile.java)|
+|Digit Seperation|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B016%5D%20DigitSeperation/MyFile.java)|
+|Number To String|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B017%5D%20NumberToString/MyFile.java)|
+|Tower Of Hanoi|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B018%5D%20TowerOfHanoi/MyFile.java)|
+---
