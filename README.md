@@ -86,19 +86,19 @@ __Module-6 [Strings](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tr
 | Problem | Link |
 | ------ | ----------- |
 |String Basics|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B001%5D%20Strings-Basics/MyFile.java)|
-|String Length|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B002%5D%20Strings%20Length/MyFile.java)|
-|String Concatination|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B003%5D%20Strings%20Concatination/MyFile.java)|
-|String charAt() Method|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B004%5D%20Strings%20charAt%20Method/MyFile.java)|
-|String Palindrome|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B005%5D%20String%20Palindrome/MyFile.java)|
-|Shortest Path|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B006%5D%20Shortest%20Path/MyFile.java)|
-|String Equals|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B007%5D%20String%20Equals/MyFile.java)|
-|String SubString|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B008%5D%20String%20SubString/MyFile.java)|
+|String Length|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B002%5D%20Strings%20Length/MyFile.java)|
+|String Concatination|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B003%5D%20Strings%20Concatination/MyFile.java)|
+|String charAt() Method|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B004%5D%20Strings%20charAt%20Method/MyFile.java)|
+|String Palindrome|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B005%5D%20String%20Palindrome/MyFile.java)|
+|Shortest Path|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B006%5D%20Shortest%20Path/MyFile.java)|
+|String Equals|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B007%5D%20String%20Equals/MyFile.java)|
+|String SubString|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B008%5D%20String%20SubString/MyFile.java)|
 |Lexiographically Largest String|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B009%5D%20Largest%20String/MyFile.java)|
-|StringBuilder Basics|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B010%5D%20StringBuilder-Basics/MyFile.java)|
-|ToUpperCase|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B011%5D%20ToUpperCase/MyFile.java)|
-|String Compression|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B012%5D%20String%20Compression/MyFile.java)|
-|VowelsToLowerCase|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B015%5D%20VowelsToLowerCase/MyFile.java)|
-|String Anagrams|Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B016%5D%20String%20Anagrams/MyFile.java)|
+|StringBuilder Basics|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B010%5D%20StringBuilder-Basics/MyFile.java)|
+|ToUpperCase|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B011%5D%20ToUpperCase/MyFile.java)|
+|String Compression|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B012%5D%20String%20Compression/MyFile.java)|
+|VowelsToLowerCase|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B015%5D%20VowelsToLowerCase/MyFile.java)|
+|String Anagrams|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B006%5DStrings/%5B016%5D%20String%20Anagrams/MyFile.java)|
 ---
 __Module-7 [Bit Manipulation](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B007%5DBit-Manipulation)__
 | Problem | Link |
