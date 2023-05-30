@@ -137,6 +137,7 @@ __Module-8 [Recursion](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/
 |Digit Seperation|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B016%5D%20DigitSeperation/MyFile.java)|
 |Number To String|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B017%5D%20NumberToString/MyFile.java)|
 |Tower Of Hanoi|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B018%5D%20TowerOfHanoi/MyFile.java)|
+|Binary Search Recursive|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B019%5DBinarySearch-Recursive/MyFile.java)|
 ---
 __Module-8 [Divide&Conquer](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B009%5DDivide%26Conquer)__
 | Problem | Link |
