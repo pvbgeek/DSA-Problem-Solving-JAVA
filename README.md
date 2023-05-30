@@ -138,3 +138,10 @@ __Module-8 [Recursion](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/
 |Number To String|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B017%5D%20NumberToString/MyFile.java)|
 |Tower Of Hanoi|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B018%5D%20TowerOfHanoi/MyFile.java)|
 ---
+__Module-8 [Recursion](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B009%5DDivide%26Conquer)__
+| Problem | Link |
+| ------ | ----------- |
+|Merge-Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B009%5DDivide%26Conquer/%5B001%5DMergeSort/MyFile.java)|
+|Quick-Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B009%5DDivide%26Conquer/%5B002%5DQuickSort/MyFile.java)|
+|Search In a Rotated Sorted Array|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B009%5DDivide%26Conquer/%5B003%5DSearchInRotatedSorted/MyFile.java)|
+---
