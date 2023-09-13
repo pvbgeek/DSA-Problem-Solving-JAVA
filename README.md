@@ -1,5 +1,5 @@
 ---
-__Shraddha-Didi-DSA-Alpha-Course__
+__DSA Problem Solving in Java__
 ---
 ---
 __Module-1 [Basic-Maths](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B001%5DBasicMaths)__
