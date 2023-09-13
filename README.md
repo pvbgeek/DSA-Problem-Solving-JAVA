@@ -159,7 +159,7 @@ __Module-11 [ArrayList](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course
 |Pair-Sum-1 - Optimized|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B008%5DPairSum-1-Optimized/MyFile.java)|
 |Pair-Sum-2|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B009%5DPairSum-2/MyFile.java)|
 ---
-__Module-12 [LinkedList](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B012%5DLinkedList)_
+__Module-12 [LinkedList](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B012%5DLinkedList)__
 | Problem | Link |
 | ------ | ----------- |
 |Basics of LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B001%5DBasic-LinkedList/MyFile.java)|
