@@ -12,7 +12,7 @@ public class MyFile
         {
             int currPrice = stocks[i];
 
-            while(!s.isEmpty() & currPrice > stocks[s.peek()])
+            while(!s.isEmpty() && currPrice > stocks[s.peek()])
             {
                 s.pop();
             }
