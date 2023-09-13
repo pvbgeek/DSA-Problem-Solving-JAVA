@@ -178,3 +178,16 @@ __Module-12 [LinkedList](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Cours
 |Built-in LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B014%5DBuiltIn-LinkedList/MyFile.java)|
 |ZigZag LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B015%5DZigZag-LinkedList/MyFile.java)|
 ---
+__Module-13 [Stack](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/tree/main/%5B013%5DStack)__
+| Problem | Link |
+| ------ | ----------- |
+|Stack Implementation using ArrayList|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B001%5DStack%20Implementation%20Using%20ArrayList/MyFile.java)|
+|Stack Implementation using LinkedList|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B002%5DStack%20Implementation%20Using%20LinkedList/MyFile.java)|
+|Built-in Stack|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B003%5DBuilt-in%20Stack/MyFile.java)|
+|Push at the Bottom of Stack|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B004%5DPush%20at%20the%20Bottom%20of%20Stack/MyFile.java)|
+|Reverse a String using Stack|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B005%5DReverse%20A%20String%20Using%20a%20Stack/MyFile.java)|
+|Reverse a Stack|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B006%5DReverse%20Stack/MyFile.java)|
+|Next Greater Element|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B007%5DNext%20Greater%20Element/MyFile.java)|
+|Stock Span Problem|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B008%5DStock%20Span%20Problem/MyFile.java)|
+|Valid Parentheses|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B009%5DValid%20Parentheses/MyFile.java)|
+---
