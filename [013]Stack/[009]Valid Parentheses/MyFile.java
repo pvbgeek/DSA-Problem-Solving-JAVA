@@ -16,7 +16,7 @@ public class MyFile
             {return false;}
 
             if(str.charAt(i) == ')' && stk.peek() != '(')
-            {stk.pop();}
+            {return false;}
 
             if(str.charAt(i) == ']' && stk.peek() == '[')
             {stk.pop();}
