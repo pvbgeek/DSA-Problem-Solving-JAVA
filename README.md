@@ -139,10 +139,42 @@ __Module-8 [Recursion](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/
 |Tower Of Hanoi|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B018%5D%20TowerOfHanoi/MyFile.java)|
 |Binary Search Recursive|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B008%5D%20Recursion/%5B019%5DBinarySearch-Recursive/MyFile.java)|
 ---
-__Module-8 [Divide&Conquer](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B009%5DDivide%26Conquer)__
+__Module-9 [Divide&Conquer](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B009%5DDivide%26Conquer)__
 | Problem | Link |
 | ------ | ----------- |
 |Merge-Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B009%5DDivide%26Conquer/%5B001%5DMergeSort/MyFile.java)|
 |Quick-Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B009%5DDivide%26Conquer/%5B002%5DQuickSort/MyFile.java)|
 |Search In a Rotated Sorted Array|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B009%5DDivide%26Conquer/%5B003%5DSearchInRotatedSorted/MyFile.java)|
+---
+__Module-11 [ArrayList](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B011%5DArrayList)__
+| Problem | Link |
+| ------ | ----------- |
+|Operations|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B001%5DOperations/MyFile.java)|
+|Print Reverse|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B002%5DPrintReverse/MyFile.java)|
+|Reverse ArrayList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B003%5DReverseArrayList/MyFile.java)|
+|Find Maximum in ArrayList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B004%5DFindMaximumInArrayList/MyFile.java)|
+|Containter with Most Water - Brute Force|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B005%5DContainerWithMostWater-BruteForce/MyFile.java)|
+|Container with Most Water - Optimized|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B006%5DContainerWithMostWater-Optimized/MyFile.java)|
+|Pair-Sum-1 - Brute Force|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B007%5DPairSum-1-BruteForce/MyFile.java)|
+|Pair-Sum-1 - Optimized|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B008%5DPairSum-1-Optimized/MyFile.java)|
+|Pair-Sum-2|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B011%5DArrayList/%5B009%5DPairSum-2/MyFile.java)|
+---
+_Module-11 [LinkedList](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B012%5DLinkedList)__
+| Problem | Link |
+| ------ | ----------- |
+|Basics of LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B001%5DBasic-LinkedList/MyFile.java)|
+|Dynamic Creation LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B002%5DLinkedList-Creation/MyFile.java)|
+|Insert LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B003%5DInsert-LinkedList/MyFile.java)|
+|Find Size LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B004%5DFindSize-LinkedList/MyFile.java)|
+|Search in LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B005%5DSearch-LinkedList/MyFile.java)|
+|Recursive Search LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B006%5DRecursiveSearch-LinkedList/MyFile.java)|
+|Remove Node LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B007%5DRemoveNode-LinkedList/MyFile.java)|
+|Reverse LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B008%5DReverse-LinkedList/MyFile.java)|
+|Find Middle Node|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B009%5DFindMiddleNode-LinkedList/MyFile.java)|
+|Find Middle Node - Optimized|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B010%5DMiddleNode-Optimized-LinkedList/MyFile.java)|
+|Palindrome LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B011%5DPalindrome-LinkedList/MyFile.java)|
+|Detect Cycle LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B012%5DDetectCycle-LinkedList/MyFile.java)|
+|Remove Cycle LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B013%5DRemoveCycle-LinkedList/MyFile.java)|
+|Built-in LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B014%5DBuiltIn-LinkedList/MyFile.java)|
+|ZigZag LinkedList|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B012%5DLinkedList/%5B015%5DZigZag-LinkedList/MyFile.java)|
 ---
