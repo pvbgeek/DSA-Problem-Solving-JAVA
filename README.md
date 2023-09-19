@@ -1,5 +1,5 @@
 ---
-__DSA Problem Solving in Java__
+__Shraddha-Didi-DSA-Alpha-Course__
 ---
 ---
 __Module-1 [Basic-Maths](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B001%5DBasicMaths)__
@@ -190,4 +190,18 @@ __Module-13 [Stack](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/tree/mai
 |Next Greater Element|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B007%5DNext%20Greater%20Element/MyFile.java)|
 |Stock Span Problem|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B008%5DStock%20Span%20Problem/MyFile.java)|
 |Valid Parentheses|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B013%5DStack/%5B009%5DValid%20Parentheses/MyFile.java)|
+---
+__Module-14 [Queue](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/tree/main/%5B014%5DQueue)__
+| Problem | Link |
+| ------ | ----------- |
+|Implement Using Array - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B001%5D%20Implement%20Using%20Array%20-%20Queue/MyFile.java)|
+|Implement Circular Queue Using Array - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B002%5D%20Implement%20Circular%20Queue%20Using%20Array%20-%20Queue/MyFile.java)|
+|Implement Using LinkedList - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B003%5D%20Implement%20Using%20LinkedList%20-%20Queue/MyFile.java)|
+|Implement Using Two Stacks - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B004%5D%20Implement%20Using%20Two%20Stacks%20-%20Queue/MyFile.java)|
+|Built-in Queue - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B005%5D%20Built-in%20Queue%20-%20Queue/MyFile.java)|
+|First Non-Repeating Character - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B006%5D%20First%20Non-Repeating%20Character%20-%20Queue/MyFile.java)|
+|InterLeave Two Halves of Queue - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B007%5D%20InterLeave%20Two%20Halves%20of%20Queue%20-%20Queue/MyFile.java)|
+|Queue Reversal - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B008%5D%20Queue%20Reversal%20-%20Queue/MyFile.java)|
+|Deque Built-in - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B009%5D%20Deque%20Built-in%20-%20Queue/MyFile.java)|
+|Implement Queue Using Deque - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B010%5D%20Implement%20Queue%20Using%20Deque%20-%20Queue/MyFile.java)|
 ---
