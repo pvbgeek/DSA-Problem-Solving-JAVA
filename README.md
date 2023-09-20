@@ -213,3 +213,14 @@ __Module-14 [Queue](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/tree/mai
 |Deque Built-in - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B009%5D%20Deque%20Built-in%20-%20Queue/MyFile.java)|
 |Implement Queue Using Deque - Queue|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B014%5DQueue/%5B010%5D%20Implement%20Queue%20Using%20Deque%20-%20Queue/MyFile.java)|
 ---
+__Module-15 [Greedy](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/tree/main/%5B015%5DGreedy)__
+| Problem | Link |
+| ------ | ----------- |
+|Activity Selection|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B015%5DGreedy/%5B001%5D%20ActivitySelection/MyFile.java)|
+|Fractional Knapsack|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B015%5DGreedy/%5B002%5D%20FractionalKnapsack/MyFile.java)|
+|Maximum Absolute Difference Pairs|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B015%5DGreedy/%5B003%5D%20MaximumAbsoluteDifferencePairs/MyFile.java)|
+|Maximum Length Chain Of Pairs|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B015%5DGreedy/%5B004%5D%20MaximumLengthChainOfPairs/MyFile.java)|
+|Indian Coins|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B015%5DGreedy/%5B005%5D%20IndianCoins/MyFile.java)|
+|Job Sequencing|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B015%5DGreedy/%5B006%5D%20JobSequencing/MyFile.java)|
+|Chocola Problem|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B015%5DGreedy/%5B007%5D%20ChocolaProblem/MyFile.java)|
+---
