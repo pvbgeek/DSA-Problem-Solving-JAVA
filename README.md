@@ -146,6 +146,14 @@ __Module-9 [Divide&Conquer](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Co
 |Quick-Sort|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B009%5DDivide%26Conquer/%5B002%5DQuickSort/MyFile.java)|
 |Search In a Rotated Sorted Array|[Link](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/blob/main/%5B009%5DDivide%26Conquer/%5B003%5DSearchInRotatedSorted/MyFile.java)|
 ---
+__Module-10 [Backtracking](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/tree/main/%5B010%5DBackTracking)__
+| Problem | Link |
+| ------ | ----------- |
+|Change Array|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B010%5DBackTracking/%5B001%5D%20ChangeArray/MyFile.java)|
+|Find Subsets|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B010%5DBackTracking/%5B002%5D%20FindSubsets/MyFile.java)|
+|Find Permutations|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B010%5DBackTracking/%5B003%5D%20FindPermutations/MyFile.java)|
+|Grid Ways|[Link](https://github.com/pvbgeek/DSA-Problem-Solving-JAVA/blob/main/%5B010%5DBackTracking/%5B004%5D%20GridWays/MyFile.java)|
+---
 __Module-11 [ArrayList](https://github.com/pvbgeek/ShraddhaDidi-DSA-Alpha-Course/tree/main/%5B011%5DArrayList)__
 | Problem | Link |
 | ------ | ----------- |
